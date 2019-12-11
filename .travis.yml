@@ -14,7 +14,7 @@ before_install:
 before_script:
 - export ROOTDIR=force-app/main/default/
 - export TESTLEVEL=RunLocalTests
-- export PACKAGENAME="0Ho0N000000CaT3SAK"
+- export PACKAGENAME=""
 - export PACKAGEVERSION=""
 - sfdx --version
 - sfdx plugins --core
